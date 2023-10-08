@@ -8,3 +8,7 @@ Media and documentation for the Heathkit ET-18 (Hero-1) wheeled robot.
 ## Why is this so interesting
 
 Working with Rodney implies some form of RJ to ease into development.
+
+## The community
+
+The one of the only groups left [here](https://groups.io/g/hero-owners).
