@@ -7,7 +7,7 @@ Media and documentation for the Heathkit ET-18 (Hero-1) wheeled robot.
 
 ## Why is this so interesting
 
-Working with Rodney implies some form of RJ to ease into development. We will see what shakes.
+Working with Rodney implies some form of RJ to ease into development. Since 10-10...
 
 ## The community
 
