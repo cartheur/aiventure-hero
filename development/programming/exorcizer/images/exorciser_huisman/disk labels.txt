@@ -1,0 +1,34 @@
+
+11-10-2014  14:32           123.025 DISK01.IMD  MDOS 09 RASM os9.l0 58k
+11-10-2014  14:35           222.749 DISK02.IMD  MDOS 6809 prom.sa prom.sb (böhm programmer)  
+11-10-2014  14:37           212.299 DISK03.IMD  6809 prom.sa prom.lo
+11-10-2014  14:39           158.082 DISK04.IMD  6809 1st backup prom
+11-10-2014  14:41           204.692 DISK05.IMD  6809 operating system
+11-10-2014  14:43           204.706 DISK05A.IMD 6809 operating system (second time same disk due bad sector)
+11-10-2014  14:44           147.541 DISK06.IMD  6809 2nd backup prom
+14-10-2014  21:19           123.105 DISK07.IMD  mdos 2.0 mot basic 18B1 = 5F mdos 0v2 s1,32
+11-10-2014  14:47           228.431 DISK08.IMD  mdos editm
+				    DISK09	-disk was blank-
+11-10-2014  14:51           163.662 DISK10.IMD  no label
+14-10-2014  21:22           248.172 DISK11.IMD  Philips tape soft
+11-10-2014  14:55           196.562 DISK12.IMD  basic S.D. editm etc.
+11-10-2014  14:56           206.332 DISK13.IMD  mdos 6800
+11-10-2014  14:59           203.668 DISK14.IMD  motorola basic interpreter mpl cobol
+				    DISK15.IMD  no label -disk was blank-
+11-10-2014  15:02           312.957 DISK16.IMD  os9 v1.1 for exorcisor shell pascal
+11-10-2014  15:04           166.232 DISK17.IMD  mdos 3.02 format os9 kernels 58k 56k 48k
+11-10-2014  15:06           313.730 DISK18.IMD  no label
+11-10-2014  15:08           177.590 DISK19.IMD  (original motorola disk) 8200system E* M6800 system software 3.05
+11-10-2014  15:10           312.923 DISK20.IMD  OS9
+11-10-2014  15:11           166.207 DISK21.IMD  copy OS9 kernels
+11-10-2014  15:13           190.150 DISK22.IMD  Software Dynamics basic compiler, ASM for MDOS 9/3/80 sn 5D00 0000 0000 001F
+11-10-2014  15:17           195.737 DISK23.IMD  Software Dynamics basic compiler, ASM for MDOS 9/3/80 sn 5D00 0000 0000 001E
+11-10-2014  15:19           195.609 DISK24.IMD  Software Dynamics basic compiler, ASM for MDOS 9/3/80 sn 5D00 0000 0000 001B
+11-10-2014  15:21           195.608 DISK25.IMD  Software Dynamics basic compiler, ASM for MDOS 9/3/80 sn 5D00 0000 0000 001C
+						(Note DISK22-25 all have one track missing, probably copy protected)
+11-10-2014  15:25           170.208 DISK26.IMD  mdos 09 operating system
+11-10-2014  15:27           121.286 DISK27.IMD	M6800 Software M68SMDOS100 - MDOS operating system 3.0
+
+
+
+Roland Huisman 14-10-2014 
