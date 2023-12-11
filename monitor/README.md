@@ -16,6 +16,7 @@ Files that are located in this directory contain the source code for the Hero-1 
 For a replacemenet ROM version that is provided, use a 68764 (8K Eprom in 24 pin package). As an alternative, one can implement a conversion to allow the use of a 2764 (8K Eprom in 28 pin package).
 
 1 tie high (+5) 2 tie to socket #21 28 tie to socket #24 27 tie high (+5) 24 Pin 28 Pin Notes -------------------------- Vcc 24 26 N/C OK to pass through A8 23 25 A8 OK to pass through A9 22 24 A9 OK to pass through A12 21 23 A11 Socket to prom#2, pin to socket #18 E 20 22 OE OK to pass through A10 19 21 A10 OK to pass through A11 18 20 CE Socket to prom#23, pin to ground
+![Table](/monitor/table.png)
 
 ![RomUpgrade](/monitor/RomUpgrage.png)
 
