@@ -10,3 +10,7 @@ Files that are located in this directory contain the source code for the Hero-1 
     SMAL Hero is a symbolic macro assembly language for the Heathkit Hero-1 robot. The assembler accepts the standard mnemonics for the Motorola 6800 instruction set, as well as a set of special extended mnemonics for the Hero-1 Robot Control Language interpreter. In addition to providing the basic assembly functions the SMAL Hero assembler provides a powerful macro facility and a linkage editor facility supporting separate assembly, subprogram libraries, and shared common blocks. Assembler and linker output may be either absolute or relocatable, and the object language is encoded in an easily interpreted textual form.
 * Hero-1 C Compiler
     A C cross compiler for the Hero-1 with cource.
+
+#### For reference
+
+This [site](https://hero.dsavage.net/robots/Hero1/index.html) has some details but the site is extremely old. Precambrian Internet era.
