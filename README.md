@@ -1,4 +1,5 @@
 # aiventure-hero
+
 Research into Heathkit's 1983 kit robot
 
 ## What is here
@@ -18,3 +19,7 @@ The one of the only groups left [here](https://groups.io/g/hero-owners).
 When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
+### Fucking asshole
+
+Ordered the RF remote kit and was shorted the logic board. Fucking fags.
