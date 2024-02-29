@@ -20,6 +20,6 @@ When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-### Fucking asshole
+### Saves the day
 
-Ordered the RF remote kit and was shorted the logic board. Fucking fags.
+That group is cool. And at a good price too.
