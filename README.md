@@ -1,6 +1,6 @@
 # aiventure-hero
 
-Research into Heathkit's 1983 kit robot. Oh my.
+Research into Heathkit's 1983 kit robot.
 
 ## What is here
 
