@@ -1,6 +1,6 @@
-# aiventure-hero
+## aiventure-hero
 
-Research into Heathkit's 1983 kit robot. Biddle.
+Research into Heathkit's 1983 kit robot. Especially with my ETW-18, I purchased in September 2023.
 
 ## What is here
 
@@ -9,6 +9,15 @@ Media and documentation for the Heathkit ET-18 (Hero-1) wheeled robot.
 ## Why is this so interesting
 
 Working with Rodney implies some form of RJ to ease into development. At least this is the idea.
+
+### Index
+
+* [Development](/development/README.md)
+* [Documents](/docs/README.md)
+* [Repairs](/repairs/README.md)
+* [Upgrades](/upgrades/README.md)
+
+-----
 
 ## The community
 
