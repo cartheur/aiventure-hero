@@ -1,7 +1,7 @@
 September 2023
 an eBay auction to end all others (really?)
 
-This was my fathers Heathkit ETW-18, His name was James R. Huston, he passed away in August of 2019 with my Mother following in March of 2021
+This was my father's Heathkit ETW-18, His name was James R. Huston, he passed away in August 2019 with my Mother following in March 2021.
 
 ( https://retromaccast.libsyn.com/_episode_153_the_huston_brothers ) 
 
