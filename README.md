@@ -6,7 +6,7 @@ Research into Heathkit's 1983 kit robot. Especially with my ETW-18, I purchased 
 
 Media and documentation for the Heathkit ET-18 (Hero-1) wheeled robot.
 
-## Why is this so interesting
+## Why is this interesting
 
 Working with Rodney implies some form of RJ to ease into development. At least this is the idea.
 
