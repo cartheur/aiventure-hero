@@ -1,6 +1,6 @@
 ## aiventure-hero
 
-Research into Heathkit's 1983 kit robot. Especially with my ETW-18, I purchased in September 2023.
+Research into Heathkit's 1983 kit robot. Especially with my ETW-18, I purchased in September 2023. Still waiting to get to the matter.
 
 ## What is here
 
