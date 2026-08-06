@@ -6,7 +6,7 @@
 
 Build a tiny adaptive core around real `Hero-1` primitives instead of a screen-only simulation.
 
-Motion work starts only after the front caster or steering assembly is mechanically trustworthy.
+Motion work starts only after the steering and drive assembly is mechanically trustworthy.
 
 ## Phase 1
 

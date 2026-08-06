@@ -4,6 +4,10 @@ This directory collects the repo pieces needed to turn the `Hero-1` into a usabl
 
 ## What is here
 
+- [HERO1-STEP-BY-STEP-WORKPLAN.md](/eami/HERO1-STEP-BY-STEP-WORKPLAN.md)
+  Main bench file with the integrated repair checklist, steering-and-drive fault summary, and step-by-step sequence.
+- [HERO1-PODCAST-OUTPUT.md](/eami/HERO1-PODCAST-OUTPUT.md)
+  Podcast-ready outline and script draft for the restoration and `eami` story.
 - [HERO1-M6808-EXPANSION-ASSESSMENT.md](/eami/HERO1-M6808-EXPANSION-ASSESSMENT.md)
   Summary of why memory expansion, serial access, and host-side tooling matter.
 - [HERO1-LAB-INVENTORY.md](/eami/HERO1-LAB-INVENTORY.md)
@@ -15,8 +19,8 @@ This directory collects the repo pieces needed to turn the `Hero-1` into a usabl
 
 ## How to use this folder
 
-1. Fill in the machine inventory from physical inspection.
-2. Update repair blockers that prevent safe drive testing.
+1. Start with [HERO1-STEP-BY-STEP-WORKPLAN.md](/eami/HERO1-STEP-BY-STEP-WORKPLAN.md).
+2. Use [HERO1-LAB-INVENTORY.md](/eami/HERO1-LAB-INVENTORY.md) only to record findings from the bench.
 3. Confirm serial access and memory expansion status.
 4. Choose the first implementation path:
    `6800` assembly, `HERO-1 BASIC`, or a mixed workflow.
@@ -26,7 +30,7 @@ This directory collects the repo pieces needed to turn the `Hero-1` into a usabl
 
 The shortest path to meaningful `eami` work is:
 
-- repaired front caster or steering assembly
+- repaired steering and drive assembly
 - stable drive and pivot behavior
 - verified memory expansion
 - working serial path

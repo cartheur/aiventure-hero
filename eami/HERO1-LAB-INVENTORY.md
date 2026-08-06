@@ -14,7 +14,7 @@ Use this file as the source of truth for the exact lab machine. Update it after 
 
 - Powers on:
 - Front panel responsive:
-- Front caster or steering assembly status:
+- Steering and drive assembly status:
 - Drive motion status:
 - Pivot/steering status:
 - Arm motion status:
@@ -69,7 +69,7 @@ Use this file as the source of truth for the exact lab machine. Update it after 
 
 ## Repair blockers
 
-- Blocker 1: Front caster or steering assembly
+- Blocker 1: Steering and drive assembly
 - Blocker 2:
 - Blocker 3:
 
