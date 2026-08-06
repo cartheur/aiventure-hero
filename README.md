@@ -1,34 +1,29 @@
 ## aiventure-hero
 
-Research into Heathkit's 1983 kit robot. Especially with my ETW-18, I purchased in September 2023. Still waiting to get to the matter.
+Workspace for Hero-1 (`ET-18` and `ETW-18`) research, repair, upgrades, and EAMI-oriented development.
 
-## What is here
+## Current focus
 
-Media and documentation for the Heathkit ET-18 (Hero-1) wheeled robot.
+This repo is now organized to support practical `eami` work with the lab `Hero-1` robot:
 
-## Why is this especially interesting
+- establish an exact machine inventory
+- verify repair status and upgrade path
+- prepare a host-side workflow for serial-based experiments
+- define the first `Alpha-Hero` adaptive behavior milestone
 
-Working with Rodney implies some form of RJ to ease into development. At least this is the idea.
+## Index
 
-### Index
+- [EAMI workspace](/eami/README.md)
+- [Development](/development/README.md)
+- [Documents](/docs/README.md)
+- [Repairs](/repairs/README.md)
+- [Upgrades](/upgrades/README.md)
+- [Monitor and historical tooling](/monitor/README.md)
 
-* [Development](/development/README.md)
-* [Documents](/docs/README.md)
-* [Repairs](/repairs/README.md)
-* [Upgrades](/upgrades/README.md)
+## Recommended next lab step
 
-------
+Before writing behavior code, capture the exact hardware state of the robot in [eami/HERO1-LAB-INVENTORY.md](/eami/HERO1-LAB-INVENTORY.md). That inventory becomes the source of truth for ROM selection, serial work, memory layout, and experiment design.
 
-## The community
+## Community
 
-The one of the only groups left [here](https://groups.io/g/hero-owners).
-
-## An experiment to contain mathematical expressions in here
-
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
-
-### Saves the day
-
-That group is cool. And at a good price too.
+One of the remaining owner communities is [hero-owners on groups.io](https://groups.io/g/hero-owners).

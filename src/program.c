@@ -1,6 +1,8 @@
-#include<stdio.h>
+#include <stdio.h>
 
-int main()
+int main(void)
 {
-    printf("Hello, world!\n");
+    puts("Hero-1 host workspace scaffold");
+    puts("Next step: confirm robot inventory before writing control code.");
+    return 0;
 }

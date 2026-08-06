@@ -20,3 +20,5 @@ Utility ROM
 ## Process forward
 
 The first order of business is to get the [pivoting motor issue](/repairs/README.md) corrected and clean any connections that could be causing the intermittant error on startup.
+
+For `eami` work, the most important upgrade path is memory expansion plus a stable serial interface.
