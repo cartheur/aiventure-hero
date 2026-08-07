@@ -1,10 +1,10 @@
 ## aiventure-hero
 
-Workspace for Hero-1 (`ET-18` and `ETW-18`) research, repair, upgrades, and EAMI-oriented development.
+Workspace for Hero-1 `ETW-18` research, repair, upgrades, and EAMI-oriented development.
 
 ## Current focus
 
-This repo is now organized to support practical `eami` work with the lab `Hero-1` robot:
+This repo supports practical `eami` work with the lab `Hero-1` robot:
 
 - establish an exact machine inventory
 - verify repair status and upgrade path
