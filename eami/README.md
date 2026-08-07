@@ -32,6 +32,7 @@ The shortest path to meaningful `eami` work is:
 
 - repaired steering and drive assembly
 - stable drive and pivot behavior
+- install the accessories and liason with group regarding issues
 - verified memory expansion
 - working serial path
 - a tiny repeatable sensor-to-action experiment with logged observations
