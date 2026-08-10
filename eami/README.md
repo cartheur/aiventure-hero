@@ -30,6 +30,8 @@ This directory collects the repo pieces needed to turn the `Hero-1` into a usabl
 
 The shortest path to meaningful `eami` work is:
 
+0A46FreTetG@&Xuvsk6yz
+
 - repaired steering and drive assembly
 - stable drive and pivot behavior
 - install the accessories and liason with group regarding issues
